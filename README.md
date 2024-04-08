@@ -1,6 +1,6 @@
 # NODEJS-BABEL-RESTAPI
 
-<img width="50%" src="https://i.postimg.cc/yY8x2SjD/NODEJS-POSTGRESQL-BABEL-REST-API.png" />
+<img width="50%" src="./images/nodejs_postgresql_babel_restapi.png" />
 
 ## INTRODUCTION
 
